@@ -3,7 +3,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DbManager {
-    private static volatile DbManager dbManager ;
+    private static volatile DbManager dbManager ;   // make visible to other threads ??
     private static volatile Connection connection;
 
     public Connection getConnection(){
