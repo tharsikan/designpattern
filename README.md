@@ -14,5 +14,8 @@ based on argumants you will be switched
 **example..........  
  Animal (abstract class) & Cat, Dog, Shark, Owl, Seahorse (concreat classes)  
  Category (abstract class) can hold set of animals & addAnimals (abstract method in constructor)  
- Mammals, Fishes, Birds (concreat classes) so each holds few animals  
+ Mammals, Fishes, Birds (concreat classes) so implement addAnimals() here wich automatically calls by parent constructor  
  CategoryFactory (class) just switch createCategory(switch argument)**
+
+
+ 

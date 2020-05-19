@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfee7a91-33ba-4a79-b6f6-aef9d5192ba3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../factory/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/Birds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/CategoryCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/CategoryFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/Fishes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/Mammals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/Owl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/Seahorse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../factory/src/main/java/Shark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DbManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DbManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="dfee7a91-33ba-4a79-b6f6-aef9d5192ba3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
