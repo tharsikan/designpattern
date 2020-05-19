@@ -22,8 +22,8 @@ not use new keyword (if create new obiject is expencive)
 first time create next time just clone it.  
 exaple:: when serching items you need to display 1000s of items .. yap just clone it  
   
-shallow copy:::: obj2 = obj1 (yap 1 obj, 2 reference)
-deep copy:::: obj2.i = obj1.i (yap mannually assign values till each immulable obj)
+shallow copy:::: obj2 = obj1 (yap 1 obj, 2 reference)  
+deep copy:::: obj2.i = obj1.i (yap mannually assign values till each immulable obj)  
 clone:::: Obiject has protected clone() method inorder to use override & implements Cloneable (security purpose)  
 
 
