@@ -2,21 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfee7a91-33ba-4a79-b6f6-aef9d5192ba3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../prototype/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/prototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/src/main/java/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/src/main/java/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/src/main/java/Registory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/src/main/java/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype/src/main/java/VehicleType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../factory/src/main/java/Mammals.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory/src/main/java/Mammals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder/builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder/src/main/java/CarTelescope1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder/src/main/java/CarTelescope2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
