@@ -18,12 +18,13 @@ based on argumants you will be switched
  CategoryFactory (class) just switch createCategory(switch argument)**
 
 ## prototype
-not use new keyword (if create new obiject is expencive)  
+### not going through expencive initializaint process
+### we also have teplate obiject and it's registory so use that ?? 
+not use new keyword (if constructor is big .. )  
 first time create next time just clone it.  
 exaple:: when serching items you need to display 1000s of items .. yap just clone it  
   
-shallow copy:::: obj2 = obj1 (yap 1 obj, 2 reference)  
+shallow copy:::: obj2 = obj1 (yap 1 obj, 2 reference) so obj2.i=3 will effect the real obiject  
 deep copy:::: obj2.i = obj1.i (yap mannually assign values till each immulable obj)  
 clone:::: Obiject has protected clone() method inorder to use override & implements Cloneable (security purpose)  
-
 

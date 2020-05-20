@@ -12,5 +12,5 @@ public class Mammals extends Category {
     public String toString() {
         return ""+animals;
     }
-    Object
+
 }
