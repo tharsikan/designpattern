@@ -31,7 +31,9 @@ clone:::: Obiject has protected clone() method inorder to use override & impleme
 ## builder
 ### Avoid Telescoping constructors so evoiding pass parameter as null valuse
 ### Avoid setters so ensure the immutabillity of obiject
-static inner class used (Bulder) with same veriables has method :: Car build()
+static inner class used (Bulder) with same veriables & has method :: Car build()  
+till call build() method, outher methods will return builder obiject so we can append ...  
+
 ```
 class Car{
     int x;
@@ -49,4 +51,8 @@ class Car{
         }
     }
 }
+
+to call .......
+Car.Builder builder = new Car.Builder();
+Car car = builder.x(10).build();
 ```
