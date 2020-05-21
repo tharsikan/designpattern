@@ -18,7 +18,7 @@ based on argumants you will be switched
  CategoryFactory (class) just switch createCategory(switch argument)**
 
 ## prototype
-### not going through expencive initializaint process
+### not going through expensive initializaint process
 ### we also have teplate obiject and registory so use that ?? 
 not use new keyword (if constructor is big .. )  
 first time create next time just clone it.  

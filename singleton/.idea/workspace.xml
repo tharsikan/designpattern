@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfee7a91-33ba-4a79-b6f6-aef9d5192ba3" name="Default Changelist" comment="" />
+    <list default="true" id="dfee7a91-33ba-4a79-b6f6-aef9d5192ba3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/ChainOfResponsibility.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/src/main/java/BTT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/src/main/java/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/src/main/java/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/src/main/java/NBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/src/main/java/SSF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/src/main/java/TAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsibility/src/main/java/VAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
