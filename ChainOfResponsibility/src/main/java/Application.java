@@ -12,27 +12,27 @@ public class Application {
         btt.setSuccessor(ssf);
 
         Invoice invoice1 = new Invoice(1,50);
-        System.out.println(tax.applyTax(invoice1));
+        // System.out.println(tax.applyTax(invoice1));    we can't use both same time
         System.out.println(tax.applyAccumulativeTax(invoice1));
 
         Invoice invoice2 = new Invoice(2,150);
-        System.out.println(tax.applyTax(invoice2));
+        // System.out.println(tax.applyTax(invoice2));
         System.out.println(tax.applyAccumulativeTax(invoice2));
 
         Invoice invoice3 = new Invoice(3,250);
-        System.out.println(tax.applyTax(invoice3));
+        // System.out.println(tax.applyTax(invoice3));
         System.out.println(tax.applyAccumulativeTax(invoice3));
 
         Invoice invoice4 = new Invoice(4,350);
-        System.out.println(tax.applyTax(invoice4));
+        // System.out.println(tax.applyTax(invoice4));
         System.out.println(tax.applyAccumulativeTax(invoice4));
 
         Invoice invoice5 = new Invoice(5,450);
-        System.out.println(tax.applyTax(invoice5));
+        // System.out.println(tax.applyTax(invoice5));
         System.out.println(tax.applyAccumulativeTax(invoice5));
 
         Invoice invoice6 = new Invoice(6,550);
-        System.out.println(tax.applyTax(invoice6));
+        // System.out.println(tax.applyTax(invoice6));
         System.out.println(tax.applyAccumulativeTax(invoice6));
     }
 }
